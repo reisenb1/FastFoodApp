@@ -1,0 +1,17 @@
+/Users/ericreisenbuckler/coding/FastFoodApp/FastFoodApp/obj/Debug/net6.0/FastFoodApp.csproj.AssemblyReference.cache
+/Users/ericreisenbuckler/coding/FastFoodApp/FastFoodApp/obj/Debug/net6.0/FastFoodApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ericreisenbuckler/coding/FastFoodApp/FastFoodApp/obj/Debug/net6.0/FastFoodApp.AssemblyInfoInputs.cache
+/Users/ericreisenbuckler/coding/FastFoodApp/FastFoodApp/obj/Debug/net6.0/FastFoodApp.AssemblyInfo.cs
+/Users/ericreisenbuckler/coding/FastFoodApp/FastFoodApp/obj/Debug/net6.0/FastFoodApp.csproj.CoreCompileInputs.cache
+/Users/ericreisenbuckler/coding/FastFoodApp/FastFoodApp/bin/Debug/net6.0/FastFoodApp
+/Users/ericreisenbuckler/coding/FastFoodApp/FastFoodApp/bin/Debug/net6.0/FastFoodApp.deps.json
+/Users/ericreisenbuckler/coding/FastFoodApp/FastFoodApp/bin/Debug/net6.0/FastFoodApp.runtimeconfig.json
+/Users/ericreisenbuckler/coding/FastFoodApp/FastFoodApp/bin/Debug/net6.0/FastFoodApp.dll
+/Users/ericreisenbuckler/coding/FastFoodApp/FastFoodApp/bin/Debug/net6.0/FastFoodApp.pdb
+/Users/ericreisenbuckler/coding/FastFoodApp/FastFoodApp/obj/Debug/net6.0/FastFoodApp.dll
+/Users/ericreisenbuckler/coding/FastFoodApp/FastFoodApp/obj/Debug/net6.0/refint/FastFoodApp.dll
+/Users/ericreisenbuckler/coding/FastFoodApp/FastFoodApp/obj/Debug/net6.0/FastFoodApp.pdb
+/Users/ericreisenbuckler/coding/FastFoodApp/FastFoodApp/obj/Debug/net6.0/FastFoodApp.genruntimeconfig.cache
+/Users/ericreisenbuckler/coding/FastFoodApp/FastFoodApp/obj/Debug/net6.0/ref/FastFoodApp.dll
+/Users/ericreisenbuckler/coding/FastFoodApp/FastFoodApp/bin/Debug/net6.0/CsvHelper.dll
+/Users/ericreisenbuckler/coding/FastFoodApp/FastFoodApp/obj/Debug/net6.0/FastFoodApp.csproj.CopyComplete

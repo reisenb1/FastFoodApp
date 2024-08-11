@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WdvFlDF1UWuyRY5s8AdHs+nGuRJ1eiABweanQpILNHEyd9neVibUbd3+LmU1egy5xK/f4JZLesT4rsWukAMTzw==",
+  "success": true,
+  "projectFilePath": "/Users/ericreisenbuckler/coding/FastFoodApp/FastFoodApp/FastFoodApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/ericreisenbuckler/.nuget/packages/csvhelper/33.0.1/csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
